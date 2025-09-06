@@ -1,0 +1,9 @@
+**/node_modules/
+*.log
+.expo/
+.expo-shared/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
